@@ -8,7 +8,7 @@ The purpose of this project is to help new finance graduate, Steve in the analys
 
 ## Results
 
-VBA_Challenge_2017.png https://github.com/SNwokolo/stocks-analysis/blob/ff06299af32d287d0a83e613aa2da80a1c35ea71/VBA_Challenge_2017.png
+https://github.com/SNwokolo/stocks-analysis/blob/ff06299af32d287d0a83e613aa2da80a1c35ea71/VBA_Challenge_2017.png
 https://github.com/SNwokolo/stocks-analysis/blob/ff06299af32d287d0a83e613aa2da80a1c35ea71/VBA_Challenge_2018.png
 The above images show one of the results of running the code for the "All Stocks Analysis" worksheet in the VBA_challenge.xlsm file. For the year 2017, the code ran for 0.1953125 seconds and for 2018, it ran for 0.2265625 seconds.
 
@@ -19,11 +19,11 @@ From the results of the analysis run, 2017 was a more successful year for majori
 ### Advantages and Disadvantages of refactoring code
 **Advantages**
 Some advantages of refactoring code include: 
-- it makes code more clean, manageable, readable and easier to reuse[^1][^3].
+- it makes code more clean, manageable, readable and easier to reuse [^1][^3].
 - it could help the program/script run faster[^2].
 
 **Disadvantages**
-- it can be time consuming[^2][^1].
+- it can be time consuming [^2][^1]
 - it could potentially lead to more bugs and errors in the script[^2].
 
 **Relating the pros and cons to the original VBA script:**
