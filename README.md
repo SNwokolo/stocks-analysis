@@ -4,7 +4,7 @@ using VBA to help Steve in stock analysis
 
 ## Overview of Project
 
-The purpose of this is to help new finance graduate, Steve in the analysis of various green energy stock data. His parents are looking to invest in successful stocks and have become his clients in order for him to help determine the best stocks to invest in based on the performance of these stocks over certain time periods (particularly the years 2017 and 2018)
+The purpose of this project is to help new finance graduate, Steve in the analysis of various green energy stock data. His parents are looking to invest in successful stocks and have become his clients in order for him to help determine the best stocks to invest in based on the performance of these stocks over certain time periods (particularly the years 2017 and 2018)
 
 ## Results
 
